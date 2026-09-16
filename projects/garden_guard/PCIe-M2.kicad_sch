@@ -25,7 +25,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm"
+			(property "Footprint" "Custom_DCDC:AP3441SHE-7B"
 				(at 1.27 -7.62 0)
 				(effects
 					(font
@@ -6283,7 +6283,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm"
+		(property "Footprint" "Custom_DCDC:AP3441SHE-7B"
 			(at 62.23 179.07 0)
 			(effects
 				(font
